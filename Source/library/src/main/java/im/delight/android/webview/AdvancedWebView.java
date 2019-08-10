@@ -3,7 +3,7 @@ package im.delight.android.webview;
 /*
  * Android-AdvancedWebView (https://github.com/delight-im/Android-AdvancedWebView)
  * Copyright (c) delight.im (https://www.delight.im/)
- * Licensed under the MIT License (https://opensource.org/licenses/MIT)
+ * Licensed under the MIT License (https://opensource.org/licenses/MIT) 
  */
 
 import android.content.ActivityNotFoundException;
